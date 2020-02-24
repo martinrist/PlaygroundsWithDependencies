@@ -1,0 +1,9 @@
+[submodule "Vendor/swift-overture"]
+	path = Vendor/swift-overture
+	url = https://github.com/pointfreeco/swift-overture.git
+[submodule "Vendor/swift-prelude"]
+	path = Vendor/swift-prelude
+	url = https://github.com/pointfreeco/swift-prelude.git
+[submodule "Vendor/Alamofire"]
+	path = Vendor/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git

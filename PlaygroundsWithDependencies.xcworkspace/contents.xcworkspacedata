@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ExampleiOSProject/ExampleiOSProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TopLevelPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:AnotherTopLevelPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Vendor/Alamofire/Alamofire.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Vendor/swift-overture/Overture.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Vendor/swift-prelude/Prelude.xcodeproj">
+   </FileRef>
+</Workspace>
